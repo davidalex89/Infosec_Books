@@ -3,7 +3,7 @@ List of ethical/legal websites for hack practice and learning. Referral links ha
 
 | Category | Name | Link |
 | -------- | ------- | ------- |
-| Android Security Books | ![Image](https://raw.githubusercontent.com/dscovetta/HolidayHack2019/blob/master/images/_ahh.png)  | [link](https://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake-ebook/dp/B00K5B5Q80/) | ![Image](https://raw.githubusercontent.com/dscovetta/HolidayHack2019/blob/master/images/_ahh.png) 
+| Android Security Books | Android Hackers Handbook | [link](https://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake-ebook/dp/B00K5B5Q80/) |
 | Android Security Books | Android Security Cookbook | [link](https://www.amazon.com/Android-Security-Cookbook-Keith-Makan-ebook/dp/B00HL2GODC/) |
 | Android Security Books | Android Security Internals An In-Depth Guide to Androids Security Architecture | [link](https://www.amazon.com/Android-Security-Internals-Depth-Architecture/dp/1593275811/) |
 | Android Security Books | Bulletproof Android Practical Advice for Building Secure Apps Developers Library 1st Edition | [link](https://www.amazon.com/Bulletproof-Android-Practical-Building-Developers-ebook/dp/B00PWDFWC6/) |
