@@ -1,3 +1,4 @@
+.markdown-preview.markdown-preview { p, ul, ol {font-size: 1.2em;} }
 # Infosec Book Collection
 List of ethical/legal websites for hack practice and learning. Referral links have been removed. Enjoy!
 
