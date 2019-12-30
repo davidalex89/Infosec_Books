@@ -1,6 +1,6 @@
 # Infosec Book Collection
 
-| **Category | Name | Link** |
+| **Category** | **Name** | **Link** |
 | -------- | ------- | ------- |
 | Android Security Books | Hacking Android | [link](https://www.amazon.com/Hacking-Android-Srinivasa-Rao-Kotipalli/dp/1785883143/) |
 | Android Security Books | Android Security Internals An In-Depth Guide to Androids Security Architecture | [link](https://www.amazon.com/Android-Security-Internals-Depth-Architecture/dp/1593275811/) |
