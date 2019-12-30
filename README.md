@@ -1,8 +1,6 @@
 # Infosec Book Collection
-List of ethical/legal websites for hack practice and learning. Enjoy!
-![](https://images-na.ssl-images-amazon.com/images/I/51vhwEqTaoL._SX404_BO1,204,203,200_.jpg)
 
-| Category | Name | Link |
+| **Category | Name | Link** |
 | -------- | ------- | ------- |
 | Android Security Books | Hacking Android | [link](https://www.amazon.com/Hacking-Android-Srinivasa-Rao-Kotipalli/dp/1785883143/) |
 | Android Security Books | Android Security Internals An In-Depth Guide to Androids Security Architecture | [link](https://www.amazon.com/Android-Security-Internals-Depth-Architecture/dp/1593275811/) |
