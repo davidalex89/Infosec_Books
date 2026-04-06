@@ -199,14 +199,14 @@ Essential reading — narrative non-fiction and foundational texts that shaped t
 
 ## AI & Machine Learning Security
 
-- [AI Snake Oil](https://www.amazon.com/dp/0691249131) — Arvind Narayanan & Sayash Kapoor *(2024)*
-- [Weapons of Math Destruction](https://www.amazon.com/dp/0553418815) — Cathy O'Neil
-- [The Alignment Problem](https://www.amazon.com/dp/0393868354) — Brian Christian
-- [Atlas of AI](https://www.amazon.com/dp/0300264631) — Kate Crawford
+- [AI Snake Oil](https://www.amazon.com/dp/069124913X) — Arvind Narayanan & Sayash Kapoor *(2024)*
+- [Weapons of Math Destruction](https://www.amazon.com/dp/0553418831) — Cathy O'Neil
+- [The Alignment Problem](https://www.amazon.com/dp/0393868338) — Brian Christian
+- [Atlas of AI](https://www.amazon.com/dp/0300209576) — Kate Crawford
 - [Artificial Intelligence: A Guide for Thinking Humans](https://www.amazon.com/dp/0374257833) — Melanie Mitchell
 - [Human Compatible](https://www.amazon.com/dp/0525558616) — Stuart Russell
-- [Machine Learning Security Principles](https://www.amazon.com/dp/1804618292) — John Paul Mueller *(Packt)*
-- [Adversarial Machine Learning](https://www.amazon.com/dp/1492043842) — Kumar, Nelson, Rubinstein *(O'Reilly)*
+- [Machine Learning Security Principles](https://www.packtpub.com/en-us/product/machine-learning-security-principles-9781804618851) — John Paul Mueller *(Packt)*
+- [Adversarial Machine Learning](https://www.amazon.com/dp/1107043468) — Joseph, Nelson, Rubinstein, Tygar *(Cambridge University Press)*
 
 ---
 
