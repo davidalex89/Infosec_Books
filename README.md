@@ -207,6 +207,15 @@ Essential reading — narrative non-fiction and foundational texts that shaped t
 - [Human Compatible](https://www.amazon.com/dp/0525558616) — Stuart Russell
 - [Machine Learning Security Principles](https://www.packtpub.com/en-us/product/machine-learning-security-principles-9781804618851) — John Paul Mueller *(Packt)*
 - [Adversarial Machine Learning](https://www.amazon.com/dp/1107043468) — Joseph, Nelson, Rubinstein, Tygar *(Cambridge University Press)*
+- [Practical AI Security](https://nostarch.com/practical-ai-security) - Harriet Farlow
+- [Deep Learning Crash Course](https://nostarch.com/deep-learning-crash-course) - Giovanni Volpe, Benjamin Midtvedt, Jesús Pineda, Henrik Klein Moberg, Harshith Bachimanchi, Joana B. Pereira, and Carlo Manzo
+  
+---
+
+## Applied Data Science
+- [The StatQuest Illustrated Guide to Statistics](https://www.lulu.com/shop/josh-starmer/the-statquest-illustrated-guide-to-statistics/paperback/product-q6wj48j.html) - Josh Starmer
+- [The StatQuest Illustrated Guide to Neural Networks and AI](https://www.lulu.com/shop/josh-starmer/the-statquest-illustrated-guide-to-neural-networks-and-ai/paperback/product-m2k644q.html) - Josh Starmer
+- [The StatQuest Illustrated Guide To Machine Learning](https://www.lulu.com/shop/josh-starmer/the-statquest-illustrated-guide-to-machine-learning/paperback/product-g7jdgw.html) - Josh Starmer
 
 ---
 
@@ -229,3 +238,9 @@ Essential reading — narrative non-fiction and foundational texts that shaped t
 - [The Data Protection Officer](https://www.amazon.com/dp/1138031933) — Voigt & von dem Bussche
 - [Privacy and Data Protection Law](https://www.amazon.com/dp/1634602641) — Daniel Solove & Paul Schwartz
 - [Cybersecurity and Human Rights in the Age of Cyberveillance](https://www.amazon.com/dp/1442260416) — Klesza & Balleste
+
+---
+
+## AI Governance
+- [IAPP AIGP Artificial Intelligence Governance Professional Study Guide:2025 Exam Objectives](https://onlinelibrary.wiley.com/doi/book/10.1002/9781394363971) - Peter H. Gregory
+- [Architectures of Global AI Governance](https://global.oup.com/academic/product/architectures-of-global-ai-governance-9780198877837) - Matthijs M. Maas
